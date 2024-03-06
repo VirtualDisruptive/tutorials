@@ -9,8 +9,8 @@
 	<h3>${msg}</h3>
 	<table>
 		<tr>
-			<td>Name :</td>
-			<td>${name}</td>
+			<td>concept :</td>
+			<td>${concept}</td>
 		</tr>
 		<tr>
 			<td>ID :</td>
@@ -18,8 +18,12 @@
 		</tr>
 		<tr>
 			<td>Contact Number :</td>
-			<td>${contactNumber}</td>
+			<td>${amount}</td>
 		</tr>
+		<tr>
+            <td>retentionPercentage :</td>
+            <td>${retentionPercentage}</td>
+        </tr>
 	</table>
 </body>
 </html>
